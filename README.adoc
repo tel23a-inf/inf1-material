@@ -1,0 +1,3 @@
+= Material zur Vorlesung Informatik 1
+
+Dieses Repo enthält Material zur Vorlesung Informatik 1 an der DHBW Mannheim.

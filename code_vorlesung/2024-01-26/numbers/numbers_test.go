@@ -100,7 +100,7 @@ func ExampleNumberToString_Default() {
 	// zweihundertneunundneunzig
 }
 
-func ExampleNumberToString_Special() {
+func ExampleNumberToString_special() {
 	fmt.Println(NumberToString(1))
 	fmt.Println(NumberToString(2))
 	fmt.Println(NumberToString(3))

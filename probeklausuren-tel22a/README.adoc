@@ -1,0 +1,5 @@
+= Probeklausuren
+
+Dieser Ordner enthält Probeklausuren, wie sie der Kurs TEL22A aus dem letzten Jahr bekommen hat.
+Diese Klausuren sind vom Umfang und Inhalt her realistisch, allerdings werden in den diesjährigen Klausuren
+keine Aufgaben zu Structs vorkommen.
